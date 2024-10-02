@@ -94,6 +94,11 @@ NREGA in different regions.
 <img width="616" alt="RD" src="https://github.com/user-attachments/assets/db0855a4-39e9-4c33-be70-6969e071be6e">
 
 #### 4-Budget Utilization Report
+- The total 2 billion approved budget for labor under NREGA, indicating the financial resources allocated for employment.
+- The 5 Million budget approved for all expenditure
+- It highlights the significant proportion of the 4 Million budget going toward paying laborers.
+- The 113K: Administrative costs related to the implementation of NREGA programs.
+- The bar chart displays state-wise expenditure, with Andhra Pradesh at 16.5K and Madhya Pradesh at 14.0K showing the highest budget consumption.
 
 <img width="617" alt="BU" src="https://github.com/user-attachments/assets/6d90d720-9a7e-4552-8692-2374a7767c65">
 
